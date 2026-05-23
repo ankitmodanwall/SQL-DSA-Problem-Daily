@@ -412,5 +412,6 @@
 | [0183-customers-who-never-order](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0183-customers-who-never-order) |
 | [0185-department-top-three-salaries](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0185-department-top-three-salaries) |
 | [0196-delete-duplicate-emails](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0196-delete-duplicate-emails) |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
