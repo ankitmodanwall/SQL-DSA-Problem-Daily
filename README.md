@@ -415,6 +415,7 @@
 | [0197-rising-temperature](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0197-rising-temperature/) | Easy |
 | [0262-trips-and-users](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0262-trips-and-users/) | Hard |
 | [0511-game-play-analysis-i](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0511-game-play-analysis-i/) | Easy |
+| [0550-game-play-analysis-iv](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0550-game-play-analysis-iv/) | Medium |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0595-big-countries) |
 | [1158-market-analysis-i](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/1158-market-analysis-i/) | Medium |
