@@ -61,6 +61,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/ankitmodanwall/DSA-WIth-Leetcode-/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0142-linked-list-cycle-ii) |
@@ -210,6 +211,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0020-valid-parentheses](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0079-word-search) |
@@ -386,6 +388,7 @@
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0239-sliding-window-maximum) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 ## Monotonic Queue
