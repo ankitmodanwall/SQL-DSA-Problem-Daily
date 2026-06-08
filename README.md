@@ -420,6 +420,7 @@
 | [0585-investments-in-2016](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0585-investments-in-2016/) | Medium |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0595-big-countries) |
+| [0596-classes-with-at-least-5-students](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [0608-tree-node](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0608-tree-node/) | Medium |
 | [1158-market-analysis-i](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/1158-market-analysis-i/) | Medium |
 <!---LeetCode Topics End-->
