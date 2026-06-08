@@ -69,6 +69,7 @@
 | [0290-word-pattern](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0387-first-unique-character-in-a-string) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0496-next-greater-element-i) |
 | [1122-relative-sort-array](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/1122-relative-sort-array) |
@@ -153,6 +154,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0215-kth-largest-element-in-an-array) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -218,6 +220,7 @@
 | [0316-remove-duplicate-letters](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0316-remove-duplicate-letters) |
 | [0383-ransom-note](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0387-first-unique-character-in-a-string) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0402-remove-k-digits](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0402-remove-k-digits) |
 | [0657-robot-return-to-origin](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0657-robot-return-to-origin) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -384,6 +387,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0239-sliding-window-maximum) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
