@@ -37,6 +37,7 @@
 | [0503-next-greater-element-ii](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/ankitmodanwall/DSA-WIth-Leetcode-/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0641-design-circular-deque](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0641-design-circular-deque) |
 | [0735-asteroid-collision](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0875-koko-eating-bananas) |
@@ -74,6 +75,7 @@
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0496-next-greater-element-i) |
+| [0594-longest-harmonious-subsequence](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [1122-relative-sort-array](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -107,6 +109,7 @@
 | [0274-h-index](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0274-h-index) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0561-array-partition](https://github.com/ankitmodanwall/DSA-WIth-Leetcode-/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1051-height-checker](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/1122-relative-sort-array) |
@@ -120,6 +123,7 @@
 | [0383-ransom-note](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0387-first-unique-character-in-a-string) |
 | [0561-array-partition](https://github.com/ankitmodanwall/DSA-WIth-Leetcode-/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [1051-height-checker](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -395,6 +399,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0239-sliding-window-maximum) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
+| [0594-longest-harmonious-subsequence](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
