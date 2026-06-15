@@ -346,6 +346,7 @@
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0096-unique-binary-search-trees](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0100-same-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -364,6 +365,7 @@
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0096-unique-binary-search-trees](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0100-same-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -404,6 +406,7 @@
 | ------- | ------- |
 | [0079-word-search](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0100-same-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0101-symmetric-tree/) | Easy |
 | [0112-path-sum](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0113-path-sum-ii/) | Medium |
@@ -438,6 +441,7 @@
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0112-path-sum/) | Easy |
