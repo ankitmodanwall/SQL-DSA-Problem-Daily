@@ -369,6 +369,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0111-minimum-depth-of-binary-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0113-path-sum-ii/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
@@ -408,6 +409,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0111-minimum-depth-of-binary-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0113-path-sum-ii/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
@@ -460,6 +462,7 @@
 | [0101-symmetric-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0111-minimum-depth-of-binary-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0113-path-sum-ii/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
@@ -508,6 +511,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0111-minimum-depth-of-binary-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0112-path-sum/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
