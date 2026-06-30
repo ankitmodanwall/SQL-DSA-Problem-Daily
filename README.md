@@ -364,6 +364,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0095-unique-binary-search-trees-ii](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0098-validate-binary-search-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0099-recover-binary-search-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0101-symmetric-tree/) | Easy |
@@ -399,6 +400,7 @@
 | ------- | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0098-validate-binary-search-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0099-recover-binary-search-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
@@ -413,6 +415,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0095-unique-binary-search-trees-ii](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0098-validate-binary-search-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0099-recover-binary-search-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0101-symmetric-tree/) | Easy |
@@ -477,6 +480,7 @@
 | ------- | ------- |
 | [0079-word-search](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0098-validate-binary-search-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0099-recover-binary-search-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0101-symmetric-tree/) | Easy |
