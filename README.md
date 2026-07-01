@@ -211,6 +211,7 @@
 | [0413-arithmetic-slices](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0413-arithmetic-slices/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0907-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/ankitmodanwall/DSA-WIth-Leetcode-/tree/master/1013-fibonacci-number) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -409,6 +410,7 @@
 | [0897-increasing-order-search-tree](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0897-increasing-order-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -427,6 +429,7 @@
 | [0701-insert-into-a-binary-search-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0897-increasing-order-search-tree](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0897-increasing-order-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -468,6 +471,7 @@
 | [0897-increasing-order-search-tree](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0897-increasing-order-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -527,6 +531,7 @@
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0897-increasing-order-search-tree](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0897-increasing-order-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
