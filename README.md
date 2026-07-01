@@ -45,6 +45,7 @@
 | [0875-koko-eating-bananas](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0875-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0907-sum-of-subarray-minimums) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0950-reveal-cards-in-increasing-order) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1019-next-greater-node-in-linked-list](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/1019-next-greater-node-in-linked-list) |
 | [1046-last-stone-weight](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/1046-last-stone-weight) |
@@ -280,6 +281,7 @@
 | [0897-increasing-order-search-tree](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0897-increasing-order-search-tree) |
 | [0901-online-stock-span](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0907-sum-of-subarray-minimums) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/1019-next-greater-node-in-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -299,6 +301,7 @@
 | [0503-next-greater-element-ii](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0907-sum-of-subarray-minimums) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/1019-next-greater-node-in-linked-list) |
 | [2104-sum-of-subarray-ranges](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/2104-sum-of-subarray-ranges) |
 ## Simulation
@@ -396,6 +399,7 @@
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0897-increasing-order-search-tree](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0897-increasing-order-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -411,6 +415,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0897-increasing-order-search-tree](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0897-increasing-order-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -449,6 +454,7 @@
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0897-increasing-order-search-tree](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0897-increasing-order-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
