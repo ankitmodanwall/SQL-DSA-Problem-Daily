@@ -176,6 +176,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0190-reverse-bits](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0190-reverse-bits/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0215-kth-largest-element-in-an-array) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 ## Two Pointers
@@ -629,6 +630,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0187-repeated-dna-sequences](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0187-repeated-dna-sequences/) | Medium |
+| [0190-reverse-bits](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0190-reverse-bits/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0222-count-complete-tree-nodes/) | Easy |
 ## Rolling Hash
 | Problem Name | Difficulty |
