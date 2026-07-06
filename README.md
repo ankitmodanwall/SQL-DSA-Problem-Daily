@@ -414,6 +414,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0623-add-one-row-to-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0623-add-one-row-to-tree/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
@@ -479,6 +480,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0623-add-one-row-to-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0623-add-one-row-to-tree/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
@@ -547,6 +549,7 @@
 | [0404-sum-of-left-leaves](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0623-add-one-row-to-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0623-add-one-row-to-tree/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
@@ -596,6 +599,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0404-sum-of-left-leaves](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
+| [0623-add-one-row-to-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0623-add-one-row-to-tree/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
