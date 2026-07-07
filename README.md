@@ -74,6 +74,7 @@
 | [0001-two-sum](https://github.com/ankitmodanwall/DSA-WIth-Leetcode-/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0127-word-ladder](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0127-word-ladder/) | Hard |
 | [0141-linked-list-cycle](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0160-intersection-of-two-linked-lists) |
@@ -253,6 +254,7 @@
 | [0020-valid-parentheses](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0079-word-search) |
+| [0127-word-ladder](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0127-word-ladder/) | Hard |
 | [0187-repeated-dna-sequences](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0224-basic-calculator](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0227-basic-calculator-ii) |
@@ -597,6 +599,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0112-path-sum/) | Easy |
+| [0127-word-ladder](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0127-word-ladder/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0200-number-of-islands/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
