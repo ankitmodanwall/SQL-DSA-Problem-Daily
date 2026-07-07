@@ -36,6 +36,7 @@
 | [0410-split-array-largest-sum](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0413-arithmetic-slices/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0463-island-perimeter](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0463-island-perimeter/) | Easy |
 | [0496-next-greater-element-i](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0540-single-element-in-a-sorted-array) |
@@ -242,6 +243,7 @@
 | [0200-number-of-islands](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0200-number-of-islands/) | Medium |
 | [0221-maximal-square](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0289-game-of-life) |
+| [0463-island-perimeter](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0463-island-perimeter/) | Easy |
 | [1901-find-a-peak-element-ii](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/1901-find-a-peak-element-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## String
@@ -547,6 +549,7 @@
 | [0257-binary-tree-paths](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0257-binary-tree-paths/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0404-sum-of-left-leaves](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0404-sum-of-left-leaves/) | Easy |
+| [0463-island-perimeter](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0463-island-perimeter/) | Easy |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0623-add-one-row-to-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0623-add-one-row-to-tree/) | Medium |
@@ -598,6 +601,7 @@
 | [0200-number-of-islands](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0200-number-of-islands/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0404-sum-of-left-leaves](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0404-sum-of-left-leaves/) | Easy |
+| [0463-island-perimeter](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0463-island-perimeter/) | Easy |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0623-add-one-row-to-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0623-add-one-row-to-tree/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
