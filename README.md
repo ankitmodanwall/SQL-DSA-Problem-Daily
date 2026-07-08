@@ -93,6 +93,7 @@
 | [1122-relative-sort-array](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/1122-relative-sort-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1763-longest-nice-substring](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/1763-longest-nice-substring/) | Easy |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Math
 | Problem Name | Difficulty |
@@ -187,6 +188,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0215-kth-largest-element-in-an-array) |
 | [0372-super-pow](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0372-super-pow/) | Medium |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
+| [1763-longest-nice-substring](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/1763-longest-nice-substring/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -271,6 +273,7 @@
 | [0657-robot-return-to-origin](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0657-robot-return-to-origin) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1763-longest-nice-substring](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/1763-longest-nice-substring/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [3474-lexicographically-smallest-generated-string](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -583,6 +586,7 @@
 | [0413-arithmetic-slices](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0413-arithmetic-slices/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1763-longest-nice-substring](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/1763-longest-nice-substring/) | Easy |
 | [3364-minimum-positive-sum-subarray](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## Monotonic Queue
 | Problem Name | Difficulty |
@@ -654,6 +658,7 @@
 | [0187-repeated-dna-sequences](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0190-reverse-bits](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0190-reverse-bits/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0222-count-complete-tree-nodes/) | Easy |
+| [1763-longest-nice-substring](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/1763-longest-nice-substring/) | Easy |
 ## Rolling Hash
 | Problem Name | Difficulty |
 | ------- | ------- |
