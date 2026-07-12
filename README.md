@@ -180,6 +180,7 @@
 | [0275-h-index-ii](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0875-koko-eating-bananas) |
@@ -337,6 +338,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0278-first-bad-version](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
