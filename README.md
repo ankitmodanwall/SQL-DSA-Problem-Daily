@@ -74,6 +74,7 @@
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3719-longest-balanced-subarray-i](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3719-longest-balanced-subarray-i/) | Medium |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3759-count-elements-with-at-least-k-greater-values/) | Medium |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -118,6 +119,7 @@
 | [0372-super-pow](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0372-super-pow/) | Medium |
 | [1013-fibonacci-number](https://github.com/ankitmodanwall/DSA-WIth-Leetcode-/tree/master/1013-fibonacci-number) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -150,6 +152,7 @@
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3759-count-elements-with-at-least-k-greater-values/) | Medium |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -231,6 +234,7 @@
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -363,6 +367,7 @@
 | [0950-reveal-cards-in-increasing-order](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/1929-concatenation-of-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -725,4 +730,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3719-longest-balanced-subarray-i/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 <!---LeetCode Topics End-->
