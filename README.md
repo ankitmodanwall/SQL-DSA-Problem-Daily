@@ -71,6 +71,7 @@
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3364-minimum-positive-sum-subarray](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3719-longest-balanced-subarray-i](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3719-longest-balanced-subarray-i/) | Medium |
@@ -123,6 +124,7 @@
 | [0372-super-pow](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0372-super-pow/) | Medium |
 | [1013-fibonacci-number](https://github.com/ankitmodanwall/DSA-WIth-Leetcode-/tree/master/1013-fibonacci-number) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Greedy
@@ -709,6 +711,7 @@
 | [0191-number-of-1-bits](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0191-number-of-1-bits/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [1763-longest-nice-substring](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/1763-longest-nice-substring/) | Easy |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Rolling Hash
 | Problem Name | Difficulty |
