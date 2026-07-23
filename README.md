@@ -470,6 +470,7 @@
 | [0623-add-one-row-to-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0623-add-one-row-to-tree/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0654-maximum-binary-tree/) | Medium |
+| [0655-print-binary-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0655-print-binary-tree/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
@@ -538,6 +539,7 @@
 | [0623-add-one-row-to-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0623-add-one-row-to-tree/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0654-maximum-binary-tree/) | Medium |
+| [0655-print-binary-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0655-print-binary-tree/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
@@ -609,6 +611,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0623-add-one-row-to-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0623-add-one-row-to-tree/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0655-print-binary-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0655-print-binary-tree/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0872-leaf-similar-trees/) | Easy |
@@ -665,6 +668,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0623-add-one-row-to-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0623-add-one-row-to-tree/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0655-print-binary-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0655-print-binary-tree/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
