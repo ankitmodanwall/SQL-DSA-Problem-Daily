@@ -107,6 +107,7 @@
 | [1763-longest-nice-substring](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/1763-longest-nice-substring/) | Easy |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3719-longest-balanced-subarray-i](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3719-longest-balanced-subarray-i/) | Medium |
 ## Math
@@ -125,6 +126,7 @@
 | [1013-fibonacci-number](https://github.com/ankitmodanwall/DSA-WIth-Leetcode-/tree/master/1013-fibonacci-number) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Greedy
@@ -174,6 +176,7 @@
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -314,6 +317,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [3474-lexicographically-smallest-generated-string](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -760,4 +764,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 <!---LeetCode Topics End-->
