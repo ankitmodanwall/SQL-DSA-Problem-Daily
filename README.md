@@ -33,6 +33,7 @@
 | [0274-h-index](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0275-h-index-ii) |
 | [0289-game-of-life](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0289-game-of-life) |
+| [0303-range-sum-query-immutable](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0413-arithmetic-slices/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -417,6 +418,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0303-range-sum-query-immutable](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0410-split-array-largest-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3364-minimum-positive-sum-subarray](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
@@ -564,6 +566,7 @@
 | [0225-implement-stack-using-queues](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0232-implement-queue-using-stacks) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0303-range-sum-query-immutable](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0641-design-circular-deque](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0641-design-circular-deque) |
 | [0901-online-stock-span](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0933-number-of-recent-calls) |
