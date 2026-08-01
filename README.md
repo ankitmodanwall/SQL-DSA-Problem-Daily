@@ -98,6 +98,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0594-longest-harmonious-subsequence/) | Easy |
+| [0652-find-duplicate-subtrees](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0652-find-duplicate-subtrees/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
@@ -478,6 +479,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0623-add-one-row-to-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0623-add-one-row-to-tree/) | Medium |
+| [0652-find-duplicate-subtrees](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0652-find-duplicate-subtrees/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0655-print-binary-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0655-print-binary-tree/) | Medium |
@@ -549,6 +551,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0623-add-one-row-to-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0623-add-one-row-to-tree/) | Medium |
+| [0652-find-duplicate-subtrees](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0652-find-duplicate-subtrees/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0655-print-binary-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0655-print-binary-tree/) | Medium |
@@ -624,6 +627,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0623-add-one-row-to-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0623-add-one-row-to-tree/) | Medium |
+| [0652-find-duplicate-subtrees](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0652-find-duplicate-subtrees/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0655-print-binary-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0655-print-binary-tree/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
