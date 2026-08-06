@@ -733,6 +733,7 @@
 | [0187-repeated-dna-sequences](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0190-reverse-bits](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0191-number-of-1-bits/) | Easy |
+| [0201-bitwise-and-of-numbers-range](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0201-bitwise-and-of-numbers-range/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [1763-longest-nice-substring](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/1763-longest-nice-substring/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
