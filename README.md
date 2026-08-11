@@ -120,6 +120,7 @@
 | [0002-add-two-numbers](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/ankitmodanwall/DSA-WIth-Leetcode-/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0070-climbing-stairs/) | Easy |
 | [0096-unique-binary-search-trees](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0189-rotate-array](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0202-happy-number/) | Easy |
@@ -264,6 +265,7 @@
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0064-minimum-path-sum](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0070-climbing-stairs/) | Easy |
 | [0085-maximal-rectangle](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0085-maximal-rectangle) |
 | [0095-unique-binary-search-trees-ii](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0096-unique-binary-search-trees/) | Medium |
@@ -292,6 +294,7 @@
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0070-climbing-stairs/) | Easy |
 | [1013-fibonacci-number](https://github.com/ankitmodanwall/DSA-WIth-Leetcode-/tree/master/1013-fibonacci-number) |
 ## Matrix
 | Problem Name | Difficulty |
