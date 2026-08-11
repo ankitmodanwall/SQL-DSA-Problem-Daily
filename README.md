@@ -46,6 +46,7 @@
 | [0641-design-circular-deque](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0641-design-circular-deque) |
 | [0654-maximum-binary-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0735-asteroid-collision](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0735-asteroid-collision) |
+| [0746-min-cost-climbing-stairs](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0875-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0907-sum-of-subarray-minimums) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0950-reveal-cards-in-increasing-order) |
@@ -273,6 +274,7 @@
 | [0221-maximal-square](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0221-maximal-square) |
 | [0410-split-array-largest-sum](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0413-arithmetic-slices/) | Medium |
+| [0746-min-cost-climbing-stairs](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0907-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/ankitmodanwall/DSA-WIth-Leetcode-/tree/master/1013-fibonacci-number) |
