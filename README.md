@@ -131,6 +131,7 @@
 | [0227-basic-calculator-ii](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0227-basic-calculator-ii) |
 | [0367-valid-perfect-square](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0367-valid-perfect-square) |
 | [0372-super-pow](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0372-super-pow/) | Medium |
+| [0509-fibonacci-number](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0509-fibonacci-number/) | Easy |
 | [1013-fibonacci-number](https://github.com/ankitmodanwall/DSA-WIth-Leetcode-/tree/master/1013-fibonacci-number) |
 | [1140-stone-game-ii](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/1140-stone-game-ii/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
@@ -277,6 +278,7 @@
 | [0221-maximal-square](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0221-maximal-square) |
 | [0410-split-array-largest-sum](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0413-arithmetic-slices/) | Medium |
+| [0509-fibonacci-number](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0509-fibonacci-number/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0907-sum-of-subarray-minimums) |
@@ -295,11 +297,13 @@
 | [0206-reverse-linked-list](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0234-palindrome-linked-list) |
+| [0509-fibonacci-number](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0509-fibonacci-number/) | Easy |
 | [1013-fibonacci-number](https://github.com/ankitmodanwall/DSA-WIth-Leetcode-/tree/master/1013-fibonacci-number) |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0070-climbing-stairs/) | Easy |
+| [0509-fibonacci-number](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0509-fibonacci-number/) | Easy |
 | [1013-fibonacci-number](https://github.com/ankitmodanwall/DSA-WIth-Leetcode-/tree/master/1013-fibonacci-number) |
 ## Matrix
 | Problem Name | Difficulty |
