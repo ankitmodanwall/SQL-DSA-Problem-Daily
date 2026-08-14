@@ -115,6 +115,7 @@
 | [1763-longest-nice-substring](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/1763-longest-nice-substring/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
@@ -348,6 +349,7 @@
 | [1763-longest-nice-substring](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/1763-longest-nice-substring/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3474-lexicographically-smallest-generated-string](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/3474-lexicographically-smallest-generated-string) |
@@ -692,6 +694,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1763-longest-nice-substring](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/1763-longest-nice-substring/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3364-minimum-positive-sum-subarray](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## Monotonic Queue
 | Problem Name | Difficulty |
