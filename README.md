@@ -68,6 +68,7 @@
 | [1901-find-a-peak-element-ii](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/1901-find-a-peak-element-ii) |
 | [1929-concatenation-of-array](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [2029-stone-game-ix](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/2029-stone-game-ix/) | Medium |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2104-sum-of-subarray-ranges](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/2104-sum-of-subarray-ranges) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
@@ -139,6 +140,7 @@
 | [0509-fibonacci-number](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0509-fibonacci-number/) | Easy |
 | [1013-fibonacci-number](https://github.com/ankitmodanwall/DSA-WIth-Leetcode-/tree/master/1013-fibonacci-number) |
 | [1140-stone-game-ii](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/1140-stone-game-ii/) | Medium |
+| [2029-stone-game-ix](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/2029-stone-game-ix/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
@@ -153,6 +155,7 @@
 | [0402-remove-k-digits](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0410-split-array-largest-sum) |
 | [0561-array-partition](https://github.com/ankitmodanwall/DSA-WIth-Leetcode-/tree/master/0561-array-partition) |
+| [2029-stone-game-ix](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/2029-stone-game-ix/) | Medium |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
@@ -193,6 +196,7 @@
 | [1051-height-checker](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2029-stone-game-ix](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/2029-stone-game-ix/) | Medium |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -833,16 +837,23 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/1140-stone-game-ii/) | Medium |
+| [2029-stone-game-ix](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/2029-stone-game-ix/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/1140-stone-game-ii/) | Medium |
+| [2029-stone-game-ix](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/2029-stone-game-ix/) | Medium |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/1140-stone-game-ii/) | Medium |
+| [2029-stone-game-ix](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/2029-stone-game-ix/) | Medium |
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+## Nim Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2029-stone-game-ix](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/2029-stone-game-ix/) | Medium |
 <!---LeetCode Topics End-->
