@@ -37,6 +37,7 @@
 | [0410-split-array-largest-sum](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0413-arithmetic-slices/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0455-assign-cookies](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0455-assign-cookies/) | Easy |
 | [0463-island-perimeter](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0463-island-perimeter/) | Easy |
 | [0496-next-greater-element-i](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0503-next-greater-element-ii) |
@@ -154,6 +155,7 @@
 | [0316-remove-duplicate-letters](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0410-split-array-largest-sum) |
+| [0455-assign-cookies](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0455-assign-cookies/) | Easy |
 | [0561-array-partition](https://github.com/ankitmodanwall/DSA-WIth-Leetcode-/tree/master/0561-array-partition) |
 | [2029-stone-game-ix](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/2029-stone-game-ix/) | Medium |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -170,6 +172,7 @@
 | [0242-valid-anagram](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0274-h-index) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0455-assign-cookies](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0455-assign-cookies/) | Easy |
 | [0561-array-partition](https://github.com/ankitmodanwall/DSA-WIth-Leetcode-/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0950-reveal-cards-in-increasing-order) |
@@ -267,6 +270,7 @@
 | [0189-rotate-array](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0202-happy-number/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0234-palindrome-linked-list) |
+| [0455-assign-cookies](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0455-assign-cookies/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -856,4 +860,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2029-stone-game-ix](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/2029-stone-game-ix/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0455-assign-cookies](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0455-assign-cookies/) | Easy |
 <!---LeetCode Topics End-->
