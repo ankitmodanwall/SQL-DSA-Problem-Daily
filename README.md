@@ -550,6 +550,7 @@
 | [0897-increasing-order-search-tree](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0897-increasing-order-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -622,6 +623,7 @@
 | [0897-increasing-order-search-tree](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0897-increasing-order-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 ## Design
 | Problem Name | Difficulty |
@@ -695,6 +697,7 @@
 | [0872-leaf-similar-trees](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0872-leaf-similar-trees/) | Easy |
 | [0897-increasing-order-search-tree](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0897-increasing-order-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [2685-count-the-number-of-complete-components](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## String Matching
