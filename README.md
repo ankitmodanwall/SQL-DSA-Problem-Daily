@@ -32,6 +32,7 @@
 | [0239-sliding-window-maximum](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0239-sliding-window-maximum) |
 | [0274-h-index](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0275-h-index-ii) |
+| [0287-find-the-duplicate-number](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0289-game-of-life](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0289-game-of-life) |
 | [0303-range-sum-query-immutable](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0410-split-array-largest-sum) |
@@ -230,6 +231,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0275-h-index-ii](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0367-valid-perfect-square](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0410-split-array-largest-sum) |
@@ -281,6 +283,7 @@
 | [0189-rotate-array](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0202-happy-number/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0455-assign-cookies](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0455-assign-cookies/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0876-middle-of-the-linked-list) |
@@ -796,6 +799,7 @@
 | [0191-number-of-1-bits](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0191-number-of-1-bits/) | Easy |
 | [0201-bitwise-and-of-numbers-range](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0201-bitwise-and-of-numbers-range/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0222-count-complete-tree-nodes/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1763-longest-nice-substring](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/1763-longest-nice-substring/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
@@ -890,4 +894,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1049-last-stone-weight-ii](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/1049-last-stone-weight-ii/) | Medium |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0287-find-the-duplicate-number/) | Medium |
 <!---LeetCode Topics End-->
