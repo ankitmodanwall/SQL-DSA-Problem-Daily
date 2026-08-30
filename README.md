@@ -93,6 +93,7 @@
 | [3719-longest-balanced-subarray-i](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3719-longest-balanced-subarray-i/) | Medium |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3759-count-elements-with-at-least-k-greater-values/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3898-find-the-degree-of-each-vertex](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -351,6 +352,7 @@
 | [0463-island-perimeter](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0463-island-perimeter/) | Easy |
 | [1901-find-a-peak-element-ii](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/1901-find-a-peak-element-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3898-find-the-degree-of-each-vertex](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -842,6 +844,7 @@
 | [2685-count-the-number-of-complete-components](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
+| [3898-find-the-degree-of-each-vertex](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
