@@ -148,6 +148,7 @@
 | [0227-basic-calculator-ii](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0227-basic-calculator-ii) |
 | [0367-valid-perfect-square](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0367-valid-perfect-square) |
 | [0372-super-pow](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0372-super-pow/) | Medium |
+| [0445-add-two-numbers-ii](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0509-fibonacci-number](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0509-fibonacci-number/) | Easy |
 | [1013-fibonacci-number](https://github.com/ankitmodanwall/DSA-WIth-Leetcode-/tree/master/1013-fibonacci-number) |
 | [1140-stone-game-ii](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/1140-stone-game-ii/) | Medium |
@@ -410,6 +411,7 @@
 | [0234-palindrome-linked-list](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0402-remove-k-digits) |
+| [0445-add-two-numbers-ii](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0496-next-greater-element-i](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0503-next-greater-element-ii) |
 | [0654-maximum-binary-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0654-maximum-binary-tree/) | Medium |
@@ -476,6 +478,7 @@
 | [0234-palindrome-linked-list](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0328-odd-even-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0641-design-circular-deque](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0641-design-circular-deque) |
 | [0876-middle-of-the-linked-list](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0876-middle-of-the-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/1019-next-greater-node-in-linked-list) |
