@@ -89,6 +89,7 @@
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3719-longest-balanced-subarray-i](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3719-longest-balanced-subarray-i/) | Medium |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3759-count-elements-with-at-least-k-greater-values/) | Medium |
@@ -133,6 +134,7 @@
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3719-longest-balanced-subarray-i](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3719-longest-balanced-subarray-i/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -353,6 +355,7 @@
 | [0463-island-perimeter](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0463-island-perimeter/) | Easy |
 | [1901-find-a-peak-element-ii](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/1901-find-a-peak-element-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3898-find-the-degree-of-each-vertex](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -772,6 +775,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [2685-count-the-number-of-complete-components](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -820,6 +824,7 @@
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Rolling Hash
 | Problem Name | Difficulty |
