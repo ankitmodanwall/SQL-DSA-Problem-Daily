@@ -50,6 +50,7 @@
 | [0735-asteroid-collision](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0735-asteroid-collision) |
 | [0746-min-cost-climbing-stairs](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0875-koko-eating-bananas) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0907-sum-of-subarray-minimums) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
@@ -122,6 +123,7 @@
 | [0652-find-duplicate-subtrees](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0652-find-duplicate-subtrees/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1122-relative-sort-array](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -276,6 +278,7 @@
 | [0372-super-pow](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0372-super-pow/) | Medium |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0654-maximum-binary-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0654-maximum-binary-tree/) | Medium |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
 | [1763-longest-nice-substring](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/1763-longest-nice-substring/) | Easy |
 | [3719-longest-balanced-subarray-i](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3719-longest-balanced-subarray-i/) | Medium |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3759-count-elements-with-at-least-k-greater-values/) | Medium |
@@ -569,6 +572,7 @@
 | [0701-insert-into-a-binary-search-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0872-leaf-similar-trees/) | Easy |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
 | [0897-increasing-order-search-tree](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0897-increasing-order-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
@@ -642,6 +646,7 @@
 | [0701-insert-into-a-binary-search-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0872-leaf-similar-trees/) | Easy |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
 | [0897-increasing-order-search-tree](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0897-increasing-order-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
