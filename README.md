@@ -835,6 +835,7 @@
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0602-friend-requests-ii-who-has-the-most-friends/) | Medium |
 | [0607-sales-person](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0607-sales-person/) | Easy |
 | [0608-tree-node](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0608-tree-node/) | Medium |
+| [0619-biggest-single-number](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0619-biggest-single-number/) | Easy |
 | [0626-exchange-seats](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0626-exchange-seats/) | Medium |
 | [1158-market-analysis-i](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/1158-market-analysis-i/) | Medium |
 ## Bit Manipulation
