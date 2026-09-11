@@ -328,6 +328,7 @@
 | [0095-unique-binary-search-trees-ii](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0131-palindrome-partitioning](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0221-maximal-square](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0221-maximal-square) |
 | [0410-split-array-largest-sum](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0410-split-array-largest-sum) |
@@ -386,6 +387,7 @@
 | [0071-simplify-path](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0127-word-ladder/) | Hard |
+| [0131-palindrome-partitioning](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0187-repeated-dna-sequences](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0224-basic-calculator](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0227-basic-calculator-ii) |
@@ -812,6 +814,7 @@
 | [0079-word-search](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0079-word-search) |
 | [0095-unique-binary-search-trees-ii](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0113-path-sum-ii](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0113-path-sum-ii/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0257-binary-tree-paths](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0257-binary-tree-paths/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Database
