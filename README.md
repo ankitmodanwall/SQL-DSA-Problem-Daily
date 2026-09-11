@@ -90,6 +90,7 @@
 | [3312-sorted-gcd-pair-queries](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3364-minimum-positive-sum-subarray](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -140,6 +141,7 @@
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
@@ -354,6 +356,7 @@
 | [0234-palindrome-linked-list](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0509-fibonacci-number/) | Easy |
 | [1013-fibonacci-number](https://github.com/ankitmodanwall/DSA-WIth-Leetcode-/tree/master/1013-fibonacci-number) |
+| [3483-unique-3-digit-even-numbers](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -908,6 +911,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
