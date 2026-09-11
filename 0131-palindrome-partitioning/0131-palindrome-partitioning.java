@@ -1,43 +1,31 @@
 class Solution {
-
-    private boolean isPalindrome(String s, int start, int end) {
-
-        while (start <= end) {
-            if (s.charAt(start++) != s.charAt(end--)) {
-                return false;
-            }
-        }
-
-        return true;
+    int n;
+    List<List<String>> res=new ArrayList<>();
+    List<String> path=new ArrayList<>();
+    public List<List<String>> partition(String s) {
+        n=s.length();
+        helper(s,0);
+        return res;
     }
-
-    private void func(int idx, String s, List<String> path, List<List<String>> ans) {
-
-        if (idx == s.length()) {
-            ans.add(new ArrayList<>(path));
+    public void helper(String s,int start){
+        if(start==n){
+            res.add(new ArrayList<>(path));
             return;
         }
-
-        for (int i = idx; i < s.length(); i++) {
-
-            if (isPalindrome(s, idx, i)) {
-
-                path.add(s.substring(idx, i + 1));
-
-                func(i + 1, s, path, ans);
-
-                path.remove(path.size() - 1);
+        for(int end=start;end<n;end++){
+            if(isPalindrome(s,start,end)){
+                path.add(s.substring(start,end+1));
+                helper(s,end+1);
+                path.remove(path.size()-1);
             }
-        }
-    }
-
-    public List<List<String>> partition(String s) {
-
-        List<List<String>> ans = new ArrayList<>();
-        List<String> path = new ArrayList<>();
-
-        func(0, s, path, ans);
-
-        return ans;
+        }}
+        public boolean isPalindrome(String s,int left,int right){
+            while(left<=right){
+                if(s.charAt(left)!=s.charAt(right)) return false;
+                left++;
+                right--;
+            }
+            return true;
+        
     }
 }
