@@ -321,6 +321,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0010-regular-expression-matching](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0010-regular-expression-matching/) | Hard |
 | [0053-maximum-subarray](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0053-maximum-subarray/) | Medium |
 | [0064-minimum-path-sum](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0070-climbing-stairs/) | Easy |
@@ -349,6 +350,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0010-regular-expression-matching/) | Hard |
 | [0024-swap-nodes-in-pairs](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0203-remove-linked-list-elements) |
@@ -383,6 +385,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0010-regular-expression-matching](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0010-regular-expression-matching/) | Hard |
 | [0020-valid-parentheses](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0079-word-search) |
