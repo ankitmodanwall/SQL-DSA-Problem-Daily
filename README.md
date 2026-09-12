@@ -89,6 +89,7 @@
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3364-minimum-positive-sum-subarray](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
@@ -217,6 +218,7 @@
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3759-count-elements-with-at-least-k-greater-values/) | Medium |
@@ -267,6 +269,7 @@
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3759-count-elements-with-at-least-k-greater-values/) | Medium |
@@ -345,6 +348,7 @@
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1563-stone-game-v](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/1563-stone-game-v/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
