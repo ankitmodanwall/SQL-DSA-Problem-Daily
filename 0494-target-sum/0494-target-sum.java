@@ -47,11 +47,7 @@ class Solution {
 
 
         // OPTION 1: Skip current number
-        int skip = solve(
-            nums,
-            i + 1,
-            sum
-        );
+        int skip = solve(nums,i + 1,sum);
 
 
         // OPTION 2: Take current number
@@ -59,11 +55,7 @@ class Solution {
 
         if (nums[i] <= sum) {
 
-            take = solve(
-                nums,
-                i + 1,
-                sum - nums[i]
-            );
+            take = solve(nums,i + 1,sum - nums[i]);
         }
 
 
