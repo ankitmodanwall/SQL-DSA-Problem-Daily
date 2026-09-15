@@ -196,6 +196,7 @@
 | [1927-sum-game](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/2029-stone-game-ix/) | Medium |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3474-lexicographically-smallest-generated-string](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/3474-lexicographically-smallest-generated-string) |
@@ -321,6 +322,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -353,6 +355,7 @@
 | [1140-stone-game-ii](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/1140-stone-game-ii/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1563-stone-game-v](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/1563-stone-game-v/) | Hard |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -423,6 +426,7 @@
 | [1927-sum-game](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/1927-sum-game/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
