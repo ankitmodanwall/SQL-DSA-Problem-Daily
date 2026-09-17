@@ -350,6 +350,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0494-target-sum](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0494-target-sum/) | Medium |
 | [0509-fibonacci-number](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0509-fibonacci-number/) | Easy |
+| [0583-delete-operation-for-two-strings](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0907-sum-of-subarray-minimums) |
@@ -424,6 +425,7 @@
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0402-remove-k-digits](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0583-delete-operation-for-two-strings](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0657-robot-return-to-origin) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -1003,4 +1005,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+## Longest Common Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0583-delete-operation-for-two-strings](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 <!---LeetCode Topics End-->
