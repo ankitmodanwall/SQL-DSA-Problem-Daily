@@ -5,19 +5,15 @@ class Solution {
         long even = (n + 1) / 2;
         long odd = n / 2;
 
-        long ans = power(5, even);
-        ans = (ans * power(4, odd)) % MOD;
-
-        return (int) ans;
+        return (int)((power(5, even) * power(4, odd)) % MOD);
     }
 
     private long power(long base, long exp) {
         long result = 1;
 
         while (exp > 0) {
-            if (exp % 2 == 1) {
+            if (exp % 2 == 1)
                 result = (result * base) % MOD;
-            }
 
             base = (base * base) % MOD;
             exp /= 2;
