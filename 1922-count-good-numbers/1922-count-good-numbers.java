@@ -17,7 +17,7 @@ class Solution {
             base = (base * base)%MOD;
             pow = pow >> 1;
         }
-        // System.out.println(ans);
+        System.out.println(ans);
         return ans;
     }
 
