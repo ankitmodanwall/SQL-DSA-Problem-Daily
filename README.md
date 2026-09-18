@@ -172,6 +172,7 @@
 | [1140-stone-game-ii](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/1140-stone-game-ii/) | Medium |
 | [1563-stone-game-v](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/1563-stone-game-v/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
+| [1922-count-good-numbers](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/1922-count-good-numbers/) | Medium |
 | [1927-sum-game](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/2029-stone-game-ix/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
@@ -379,6 +380,7 @@
 | [0234-palindrome-linked-list](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0509-fibonacci-number/) | Easy |
 | [1013-fibonacci-number](https://github.com/ankitmodanwall/DSA-WIth-Leetcode-/tree/master/1013-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/1922-count-good-numbers/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
