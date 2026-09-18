@@ -1,24 +1,24 @@
 class Solution {
-    static final long MOD = 1_000_000_007L;
-
+    long MOD = 1000000007;
     public int countGoodNumbers(long n) {
-        long even = (n + 1) / 2;
-        long odd = n / 2;
-
-        return (int)((power(5, even) * power(4, odd)) % MOD);
+       long m = n/2;
+       long left = n - n/2;
+       long even = (long) (power( 5 , left) % MOD);
+       long prime =(long) (power(4 , m) % MOD);
+       return (int) ((even * prime) % MOD);
     }
 
-    private long power(long base, long exp) {
-        long result = 1;
+    long power(long base , long pow){
 
-        while (exp > 0) {
-            if (exp % 2 == 1)
-                result = (result * base) % MOD;
+        long ans = 1 ;
 
-            base = (base * base) % MOD;
-            exp /= 2;
+        while(pow > 0){
+            if((pow & 1) == 1) ans = (ans * base)%MOD;
+            base = (base * base)%MOD;
+            pow = pow >> 1;
         }
-
-        return result;
+        System.out.println(ans);
+        return ans;
     }
+
 }
