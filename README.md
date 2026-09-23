@@ -14,6 +14,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0053-maximum-subarray/) | Medium |
+| [0063-unique-paths-ii](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -342,6 +343,7 @@
 | [0022-generate-parentheses](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0022-generate-parentheses/) | Medium |
 | [0053-maximum-subarray](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0053-maximum-subarray/) | Medium |
 | [0062-unique-paths](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0062-unique-paths/) | Medium |
+| [0063-unique-paths-ii](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0070-climbing-stairs/) | Easy |
 | [0085-maximal-rectangle](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0085-maximal-rectangle) |
@@ -397,6 +399,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0063-unique-paths-ii](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0085-maximal-rectangle) |
