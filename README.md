@@ -158,6 +158,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/ankitmodanwall/DSA-WIth-Leetcode-/tree/master/0009-palindrome-number) |
+| [0062-unique-paths](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0062-unique-paths/) | Medium |
 | [0069-sqrtx](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0070-climbing-stairs/) | Easy |
 | [0096-unique-binary-search-trees](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0096-unique-binary-search-trees/) | Medium |
@@ -340,6 +341,7 @@
 | [0010-regular-expression-matching](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0010-regular-expression-matching/) | Hard |
 | [0022-generate-parentheses](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0022-generate-parentheses/) | Medium |
 | [0053-maximum-subarray](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0053-maximum-subarray/) | Medium |
+| [0062-unique-paths](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0062-unique-paths/) | Medium |
 | [0064-minimum-path-sum](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0070-climbing-stairs/) | Easy |
 | [0085-maximal-rectangle](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0085-maximal-rectangle) |
@@ -946,6 +948,7 @@
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0062-unique-paths](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0062-unique-paths/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
