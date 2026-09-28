@@ -444,6 +444,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1763-longest-nice-substring](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/1763-longest-nice-substring/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1927-sum-game](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/1927-sum-game/) | Medium |
@@ -491,6 +492,7 @@
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/1019-next-greater-node-in-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2104-sum-of-subarray-ranges](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/2104-sum-of-subarray-ranges) |
 ## Interactive
@@ -1023,6 +1025,7 @@
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0022-generate-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Longest Common Subsequence
 | Problem Name | Difficulty |
 | ------- | ------- |
