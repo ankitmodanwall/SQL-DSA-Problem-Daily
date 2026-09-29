@@ -23,6 +23,7 @@
 | [0088-merge-sorted-array](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0120-triangle](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0120-triangle/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0162-find-peak-element) |
@@ -353,6 +354,7 @@
 | [0085-maximal-rectangle](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0085-maximal-rectangle) |
 | [0095-unique-binary-search-trees-ii](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0120-triangle](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0120-triangle/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0152-maximum-product-subarray/) | Medium |
