@@ -346,6 +346,7 @@
 | [0005-longest-palindromic-substring](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0010-regular-expression-matching](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0010-regular-expression-matching/) | Hard |
 | [0022-generate-parentheses](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0053-maximum-subarray](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0053-maximum-subarray/) | Medium |
 | [0062-unique-paths](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0063-unique-paths-ii/) | Medium |
@@ -430,6 +431,7 @@
 | [0010-regular-expression-matching](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0010-regular-expression-matching/) | Hard |
 | [0020-valid-parentheses](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0071-simplify-path](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0127-word-ladder/) | Hard |
@@ -472,6 +474,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0071-simplify-path](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0085-maximal-rectangle) |
@@ -1035,6 +1038,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
