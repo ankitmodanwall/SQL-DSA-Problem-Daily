@@ -445,6 +445,7 @@
 | [0257-binary-tree-paths](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0257-binary-tree-paths/) | Easy |
 | [0290-word-pattern](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0301-remove-invalid-parentheses](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0316-remove-duplicate-letters](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0316-remove-duplicate-letters) |
 | [0383-ransom-note](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0387-first-unique-character-in-a-string) |
@@ -859,6 +860,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0200-number-of-islands/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0301-remove-invalid-parentheses](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0404-sum-of-left-leaves](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0463-island-perimeter](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0463-island-perimeter/) | Easy |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
@@ -883,6 +885,7 @@
 | [0113-path-sum-ii](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0113-path-sum-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0257-binary-tree-paths](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0257-binary-tree-paths/) | Easy |
+| [0301-remove-invalid-parentheses](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0494-target-sum](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0494-target-sum/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Database
