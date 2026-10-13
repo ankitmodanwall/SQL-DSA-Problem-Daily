@@ -111,6 +111,7 @@
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3719-longest-balanced-subarray-i](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3719-longest-balanced-subarray-i/) | Medium |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3759-count-elements-with-at-least-k-greater-values/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -222,6 +223,7 @@
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3474-lexicographically-smallest-generated-string](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -248,6 +250,7 @@
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3759-count-elements-with-at-least-k-greater-values/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Counting Sort
