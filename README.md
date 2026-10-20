@@ -120,6 +120,7 @@
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3898-find-the-degree-of-each-vertex](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -208,6 +209,7 @@
 | [3870-count-commas-in-range](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3870-count-commas-in-range/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -262,6 +264,7 @@
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3759-count-elements-with-at-least-k-greater-values/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1019,6 +1022,7 @@
 | [2778-sum-of-squares-of-special-elements](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+| [3886-sum-of-sortable-integers](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
