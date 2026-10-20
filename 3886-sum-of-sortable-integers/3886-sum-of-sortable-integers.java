@@ -1,22 +1,61 @@
 class Solution {
     public int sortableIntegers(int[] nums) {
         int n = nums.length;
+        int ans = 0;
 
-        int[] desc = new int[n];  // desc[i]: number of descents nums[j] > nums[j + 1] with j < i
-        for (int i = 1; i < n; i++) desc[i] = desc[i - 1] + (nums[i - 1] > nums[i] ? 1 : 0);
-        int[] premax = nums.clone(), sufmin = nums.clone();
-        Arrays.parallelPrefix(premax, Math::max);  // premax[i]: max of nums[0..i]
-        for (int i = n - 2; i >= 0; i--) sufmin[i] = Math.min(sufmin[i], sufmin[i + 1]);  // sufmin[i]: min of nums[i..n-1]
-        boolean[] cut = new boolean[n];  // cut[m]: nums[0..m-1] holds exactly the m smallest values
-        cut[0] = true;
-        for (int m = 1; m < n; m++) cut[m] = premax[m - 1] <= sufmin[m];
+        for (int k = 1; k <= n; k++) {
+            if (n % k != 0) {
+                continue;
+            }
 
-        BiPredicate<Integer, Integer> rotatable = (l, r) ->  // nums[l..r] is a rotated sorted run: at most one cyclic descent
-            desc[r] - desc[l] + (nums[r] > nums[l] ? 1 : 0) <= 1;
-        IntPredicate sortable = k ->  // every block starts at a valid cut and can be rotated into order
-            IntStream.iterate(0, l -> l < n, l -> l + k).allMatch(l -> cut[l] && rotatable.test(l, l + k - 1));
+            boolean valid = true;
+            int prevLast = -1;
 
-        IntStream divisors = IntStream.rangeClosed(1, n).filter(k -> n % k == 0);
-        return divisors.filter(sortable).sum();
+            for (int start = 0; start < n; start += k) {
+                int end = start + k - 1;
+
+                // Check if this block can be rotated into sorted order.
+                int descents = 0;
+                int descentIndex = -1;
+
+                for (int i = start; i < end; i++) {
+                    if (nums[i] > nums[i + 1]) {
+                        descents++;
+                        descentIndex = i;
+                    }
+                }
+
+                if (nums[end] > nums[start]) {
+                    descents++;
+                }
+
+                if (descents > 1) {
+                    valid = false;
+                    break;
+                }
+
+                // Find the minimum and maximum of the rotated block.
+                int min = nums[start];
+                int max = nums[start];
+
+                for (int i = start + 1; i <= end; i++) {
+                    min = Math.min(min, nums[i]);
+                    max = Math.max(max, nums[i]);
+                }
+
+                if (prevLast != -1 && prevLast > min) {
+                    valid = false;
+                    break;
+                }
+
+                prevLast = max;
+            }
+
+            if (valid) {
+                ans += k;
+            }
+        }
+
+        return ans;
     }
 }
