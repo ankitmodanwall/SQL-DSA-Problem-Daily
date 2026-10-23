@@ -113,6 +113,7 @@
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3719-longest-balanced-subarray-i](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3719-longest-balanced-subarray-i/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
@@ -963,6 +964,7 @@
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Rolling Hash
 | Problem Name | Difficulty |
