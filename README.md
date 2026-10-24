@@ -199,6 +199,7 @@
 | [1922-count-good-numbers](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/1922-count-good-numbers/) | Medium |
 | [1927-sum-game](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/2029-stone-game-ix/) | Medium |
+| [2409-count-days-spent-together](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/2409-count-days-spent-together/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
@@ -495,6 +496,7 @@
 | [1927-sum-game](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/1927-sum-game/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+| [2409-count-days-spent-together](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/2409-count-days-spent-together/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
