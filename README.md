@@ -71,6 +71,7 @@
 | [1051-height-checker](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/1122-relative-sort-array) |
 | [1140-stone-game-ii](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/1140-stone-game-ii/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -448,6 +449,7 @@
 | [0463-island-perimeter](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0463-island-perimeter/) | Easy |
 | [0835-image-overlap](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0835-image-overlap/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0931-minimum-falling-path-sum/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/1901-find-a-peak-element-ii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -843,6 +845,7 @@
 | [0897-increasing-order-search-tree](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0897-increasing-order-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
+| [1254-number-of-closed-islands](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [2685-count-the-number-of-complete-components](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## String Matching
@@ -908,6 +911,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [1254-number-of-closed-islands](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/1254-number-of-closed-islands/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
@@ -985,6 +989,7 @@
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0200-number-of-islands/) | Medium |
 | [0684-redundant-connection](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0684-redundant-connection/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/1254-number-of-closed-islands/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
