@@ -119,6 +119,7 @@
 | [3719-longest-balanced-subarray-i](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3719-longest-balanced-subarray-i/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3759-count-elements-with-at-least-k-greater-values/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
@@ -343,6 +344,7 @@
 | [1763-longest-nice-substring](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/1763-longest-nice-substring/) | Easy |
 | [3719-longest-balanced-subarray-i](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3719-longest-balanced-subarray-i/) | Medium |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3759-count-elements-with-at-least-k-greater-values/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -510,6 +512,7 @@
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Stack
@@ -698,6 +701,7 @@
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -851,6 +855,7 @@
 | [1254-number-of-closed-islands](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [2685-count-the-number-of-complete-components](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/2685-count-the-number-of-complete-components/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -975,6 +980,7 @@
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Rolling Hash
 | Problem Name | Difficulty |
@@ -1016,6 +1022,7 @@
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3719-longest-balanced-subarray-i](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3719-longest-balanced-subarray-i/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1119,4 +1126,5 @@
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 <!---LeetCode Topics End-->
