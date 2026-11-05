@@ -77,6 +77,7 @@
 | [1288-remove-covered-intervals](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -265,6 +266,7 @@
 | [1288-remove-covered-intervals](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
@@ -318,6 +320,7 @@
 | [0875-koko-eating-bananas](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/1539-kth-missing-positive-number) |
@@ -374,6 +377,7 @@
 | [0455-assign-cookies](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0455-assign-cookies/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/0876-middle-of-the-linked-list) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ankitmodanwall/DSA-Leetcode-prob/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ankitmodanwall/SQL-DSA-Problem-Daily/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
